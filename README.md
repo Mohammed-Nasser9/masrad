@@ -4,8 +4,6 @@ AI-Powered Accessible Reading of Arabic Visual Novels for Visually Impaired Read
 
 Graduation project (CSC 496/497), Computer Science Department, College of Computer and Information Sciences, King Saud University, 2026/2027.
 
-Status: Semester 1: analysis and design. Implementation starts in Semester 2.
-
 About
 
 Visual novels communicate stories through dialogue, artwork and panel layout, which creates accessibility barriers for visually impaired readers. Masrad is an AI-powered web application that transforms Arabic visual novel chapters into screen-reader-compatible text, combining dialogue, speaker information and concise descriptions of essential visual events in reading order.
@@ -47,6 +45,7 @@ OCR and detail-selector training
 Text generation and system integration
 Evaluation and refinement
 Final release and documentation
+
 Data
 
 Visual novel pages, datasets and model weights are not stored in this repository. Instructions for getting the data will be added here.
